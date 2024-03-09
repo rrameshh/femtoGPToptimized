@@ -1,6 +1,9 @@
 # femtoGPT
 
 GPT implementation in pure Python.
+** added autovectorization + compiled code in C
+inpired by blog posts: https://bernsteinbear.com/blog/compiling-ml-models/
+                       https://bernsteinbear.com/blog/vectorizing-ml-models/
 
 You've seen [nanoGPT](https://github.com/karpathy/nanoGPT).
 
@@ -12,7 +15,7 @@ A crazy idea occurs to you: what if I created a GPT model... from scratch?
 
 Here is the result of this work: femtoGPT, a GPT implementation in pure Python, without any dependencies... and with it's own autograd engine (inspired by [micrograd](https://github.com/karpathy/micrograd/tree/master)).
 
-** added autovectorization + compiled code in C
+
 
 ## Features
 
