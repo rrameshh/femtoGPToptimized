@@ -2,7 +2,9 @@
 
 GPT implementation in pure Python.
 ** added autovectorization + compiled code in C
+
 inpired by blog posts: https://bernsteinbear.com/blog/compiling-ml-models/
+                       
                        https://bernsteinbear.com/blog/vectorizing-ml-models/
 
 You've seen [nanoGPT](https://github.com/karpathy/nanoGPT).
