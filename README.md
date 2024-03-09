@@ -12,6 +12,8 @@ A crazy idea occurs to you: what if I created a GPT model... from scratch?
 
 Here is the result of this work: femtoGPT, a GPT implementation in pure Python, without any dependencies... and with it's own autograd engine (inspired by [micrograd](https://github.com/karpathy/micrograd/tree/master)).
 
+** added autovectorization + compiled code in C
+
 ## Features
 
 - No tensor ❌
